@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Ukraine",
+        "Area": "603628",
+        "Population": "41000000",
+        "Continent": "Europe"
+    },
+    {
+        "Name": "Nigeria",
+        "Area": "923768",
+        "Population": "206000000",
+        "Continent": "Africa"
+    },
+    {
+        "Name": "China",
+        "Area": "9596961",
+        "Population": "1400000000",
+        "Continent": "Asia"
+    }
+]
