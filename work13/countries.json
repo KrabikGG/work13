@@ -16,5 +16,17 @@
         "Area": "9596961",
         "Population": "1400000000",
         "Continent": "Asia"
+    },
+    {
+        "Name": "Brazil",
+        "Area": "8515767",
+        "Population": "213000000",
+        "Continent": "South America"
+    },
+    {
+        "Name": "Canada",
+        "Area": "9984670",
+        "Population": "38000000",
+        "Continent": "North America"
     }
 ]
